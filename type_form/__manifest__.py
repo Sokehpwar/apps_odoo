@@ -15,7 +15,11 @@
         'security/ir.model.access.csv',
         'views/type_info.xml',
     ],
-    'images': ['static/description/icons.png'],
+    'images': [
+        'static/description/banner.png',
+        'static/description/index.html',
+        'static/description/icon.png'
+    ],
     'installable': True,
     'application': True,
     'auto_install': False,
